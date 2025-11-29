@@ -47,7 +47,7 @@ A modern **neon-themed chat UI** built with Flutter. Supports **dark mode**, **e
 
 For collaboration, inquiries, or support, reach out via:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 📸 Instagram: [@yourhandle](https://www.instagram.com/yourhandle)
+- 📧 Email: [kingdev.creation@gmail.com](mailto:kingdev.creation@gmail.com)  
+- 📸 Instagram: [@kingdev.creation](https://www.instagram.com/kingdev.creation/)
 
 *All contact goes through the above channels; personal GitHub identity is not shown.*
