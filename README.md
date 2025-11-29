@@ -26,7 +26,6 @@ A modern **neon-themed chat UI** built with Flutter. Supports **dark mode**, **e
   <img src="assets/dark_neon.jpg" width="250"/>
 </p>
  
-
 ---
 
 ## Features
@@ -41,3 +40,14 @@ A modern **neon-themed chat UI** built with Flutter. Supports **dark mode**, **e
 ---
 
 **Note:** This repository is for portfolio showcase only. Source code is not included.
+
+---
+
+## Contact / Collaboration
+
+For collaboration, inquiries, or support, reach out via:
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📸 Instagram: [@yourhandle](https://www.instagram.com/yourhandle)
+
+*All contact goes through the above channels; personal GitHub identity is not shown.*
